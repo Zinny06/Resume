@@ -1,0 +1,20 @@
+body {
+	background-color: #ffcc00;
+	font-family: sans-serif;
+	
+}
+
+h1, h2, h3 {
+	font-weight: 1000;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+
+}
+h1:hover, h2:hover, h3:hover {
+	border-bottom-color: white;	
+
+}
+.outer {
+	width: 50%;
+	margin: auto;
+}

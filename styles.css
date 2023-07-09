@@ -18,3 +18,12 @@ h1:hover, h2:hover, h3:hover {
 	width: 50%;
 	margin: auto;
 }
+
+.photo {
+	background-image: url('zinn.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height:90vh;
+	width: 40%;
+
+}
